@@ -1,2 +1,4 @@
-# Exercicios JavaScript
- Exercicios para a pratica de JavaScript
+# Exercícios JavaScript
+ Exercícios para a prática de JavaScript
+
+Repositório criado para a pratica de JavaScript
