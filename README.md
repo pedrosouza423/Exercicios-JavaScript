@@ -1,4 +1,4 @@
 # Exercícios JavaScript
  Exercícios para a prática de JavaScript
 
-Repositório criado para a pratica de JavaScript - LaunchBase - Rockeatseat
+Repositório criado para a pratica de JavaScript no curso: LaunchBase - Rockeatseat
