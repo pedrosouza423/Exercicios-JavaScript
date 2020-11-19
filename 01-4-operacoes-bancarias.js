@@ -4,6 +4,7 @@ const usuario = {
     saldo: 0
 }  
 
+//Adicionar transações
 function criartransacao(transacao){
     usuario.transacoes.push(transacao)
 
@@ -20,3 +21,15 @@ criartransacao({ type: "debito", value: 80 })
 criartransacao({ type: "debito", value: 30 })
 
 console.log(usuario.saldo); // 60
+
+//Relatórios
+function obterMaiorTransacao (type) {
+    let maiorValor = 0
+
+    for(let transacao of usuario.transacoes)
+    if(usuario.transacoes.type == type && usuario){
+        
+    }
+
+}
+
